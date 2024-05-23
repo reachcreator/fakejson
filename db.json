@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "start": [
     {
-      "id": 1,
-      "title": "hello"
+      "thread_id": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "chat": {
+    "response": "this is just a test message the real bot will reply with things"
   }
 }
