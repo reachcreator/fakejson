@@ -1,9 +1,7 @@
 {
-  "start": [
-    {
+  "start": {
       "thread_id": "hello"
-    }
-  ],
+  },
   "chat": {
     "response": "this is just a test message the real bot will reply with things"
   }
